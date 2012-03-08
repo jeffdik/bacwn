@@ -1,6 +1,23 @@
 # bacwn
 
-Deep studies in Clojure.
+Deep studies in Clojure, including but not limited to:
+
+* Datalog
+* Cells
+* Hygienic macros
+* Graph theory
+* Wavelet transforms
+* Term-rewriting
+* Macrology
+* Prolog
+* Blackboard systems
+* Problem solvers
+* OO
+* AI
+* Dataflow
+* ...
+
+Anything useful will eventually find its way into a separate libarary.
 
 ## License
 
